@@ -1,0 +1,46 @@
+
+.titulo-contacto{
+    font-family: 'agdasima';
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-size: larger;
+}
+
+.texto-contacto{
+    font-family: sans-serif;
+    font-weight: initial;
+}
+
+.datos-contacto{
+    font-family: 'agdasima';
+    display: flex;
+    justify-content: center;
+    margin: 1.5rem;
+}
+
+.info-contacto{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-right: 0rem;
+    margin-left: 2rem;
+    padding: 2rem;
+    font-size: initial;
+    background-color: rgba(52, 52, 52, 0.15);
+    border-radius: 10px;
+    text-align: right;
+    justify-content: center;
+}
+
+/*mapa*/
+
+.mapa{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 1rem 3rem 1rem 3rem;
+    box-shadow: 1px 1px 10px 2px #000000; 
+}
